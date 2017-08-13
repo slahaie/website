@@ -1,0 +1,17 @@
+* How to update files on Web server
+
+- Run 'make clean' and 'make update'.
+- To just update locally and view/debug, run 'make'.
+
+
+* How to update list of publications
+
+1. Insert publication into JabRef database (Archive/BibTex/mypubs.ref)
+   - Fill out required fields, including Bibtexkey.
+   - Update Keywords and Url in general fields
+2. Export database to PubList file format using File/Export, to some tmp file.
+3. Manually copy over new entries to Website/mybib.html.
+4. Change [BibTex] and [URL] to [bib] and [pdf] for new entries.
+5. Fix link to publication if needed, remove 'url' field in html bib entry.
+6. Put pdf of publications under html/pubs/
+7. Run 'chmod 774' on new publication pdfs.
