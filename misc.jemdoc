@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{misc.html}, notime
+= Sébastien Lahaie---Miscellaneous
+
+As I expand this site I plan to include links to interesting datasets and software, maybe even a blog, but for now here are a few useful items.
+
+- [docs/lpdual.pdf How to Take the Dual of a Linear Program]. These are notes on LP duality that I wrote for a graduate seminar several years ago. I get questions and comments on them quite often so I'm hosting an updated version here with many bugs and typos fixed.
+
+
+# eBay auction data
+# http://www.modelingonlineauctions.com/datasets
+# eBay auction data with features
+# http://cims.nyu.edu/~munoz/data/index.html
+# source of previous dataset (has more R code for analysis)
+# http://jaygrossman.com/post/2013/06/10/Predicting-eBay-Auction-Sales-with-Machine-Learning.aspx

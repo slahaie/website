@@ -1,0 +1,4 @@
+# jemdoc: menu{MENU}{papers.html}, addcss{bibtex.css}, notime
+= Sébastien Lahaie---Papers
+
+#includeraw{mybib.html}
