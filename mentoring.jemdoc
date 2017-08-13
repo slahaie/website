@@ -1,14 +1,16 @@
 # jemdoc: menu{MENU}{mentoring.html}, notime
 = Sébastien Lahaie---Mentoring
 
-I have been fortunate to work with many outstanding students over their summer internships at Yahoo and Microsoft. If you are interested in working with me, send me an [slahaie@microsoft.com email] and also be sure to fill in an application (including reference letters) through Microsoft's [http://research.microsoft.com/en-us/jobs/intern/apply.aspx online system]. Applications are usually received by December and selections are made by the following February.
+#I have been fortunate to work with many outstanding students over their summer internships at Yahoo and Microsoft. If you are interested in working with me, send me an [slahaie@microsoft.com email] and also be sure to fill in an application (including reference letters) through Microsoft's [http://research.microsoft.com/en-us/jobs/intern/apply.aspx online system]. Applications are usually received by December and selections are made by the following February.
 
 == Past Interns
 
-- Elaine Wah (U. Michigan, now at IEX). An empirical game-theoretic analysis of price discovery in prediction markets. Microsoft Research, Summer 2016.
-- Christian Kroer (Carnegie Mellon). Arbitrage-free combinatorial market making via integer programming. Microsoft Research, Summer 2016.
-- Hoda Heidari (U. Penn). Integrating market makers, limit orders, and continuous trade in prediction markets. Microsoft Research, Summer 2014. 
-- Erik Zawadzki (CMU, now at Facebook). Nonparametric scoring rules. Microsoft Research, Summer 2014.
+- Gianluca Brero (U. Zurich). Bayesian methods for market clearing. Microsoft Research, Summer 2016.
+- Rupert Freeman (Duke). [https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14675 Crowdsourced outcome determination in prediction markets]. Microsoft Research, Summer 2016.
+- Elaine Wah (U. Michigan, now at IEX). [http://dl.acm.org/citation.cfm?id=3060693 An empirical game-theoretic analysis of price discovery in prediction markets]. Microsoft Research, Summer 2015.
+- Christian Kroer (Carnegie Mellon). [http://dl.acm.org/citation.cfm?id=2940767 Arbitrage-free combinatorial market making via integer programming]. Microsoft Research, Summer 2015.
+- Hoda Heidari (U. Penn). [http://dl.acm.org/citation.cfm?id=2764532 Integrating market makers, limit orders, and continuous trade in prediction markets]. Microsoft Research, Summer 2014. 
+- Erik Zawadzki (CMU, now at Facebook). [https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9853 Nonparametric scoring rules]. Microsoft Research, Summer 2014.
 - Mohammad Akbarpour (Stanford, now at Stanford GSB). The generalized second-price auction with extensions. Microsoft Research, Summer 2013.
 - Nisarg Shah (CMU). [http://dl.acm.org/citation.cfm?id=2602898 Neutrality and geometry of mean voting]. Microsoft Research, Summer 2013.
 - Quang Duong (U. Michigan, now at Google). [http://dl.acm.org/citation.cfm?id=2188756 Discrete choice models of bidder behavior in sponsored search].  Yahoo Research, Summer 2011.

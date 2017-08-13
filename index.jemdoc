@@ -6,26 +6,25 @@
 #{}{img_left}{slahaie.jpg}{Sébastien Lahaie}{378px}{252px}{}
 #~~~
 
-[http://research.microsoft.com/en-us/people/slahaie/ Senior Researcher] \n
-[http://research.microsoft.com/en-us/about/our-research/economics.aspx Economics and Computation Group] \n
-[http://research.microsoft.com/en-us/labs/newyork/ Microsoft Research], New York City
+Research Scientist \n
+[https://research.google.com/teams/nycalg/market-algorithms/ Market Algorithms Group] \n
+[https://research.google.com/ Google Research], New York City
 
 == Contact
 
-641 Avenue of the Americas \n
+111 8th Avenue \n
 New York, NY 10011 \n
-[slahaie@microsoft.com]
+[slahaie@google.com]
 
 == News
 
+- Jan. 2017: I have moved to Google Research in NYC.
+- Nov. 2016: Our paper on [pubs/AbernethyLaTe16.pdf crowdsourced outcome determination in prediction markets] has been accepted to AAAI 2017.
 - Jul. 2016: I gave a tutorial on [http://www.sigecom.org/ec16/Tutorials/Design-and-Implementation-of-Combinatorial-Prediction-Markets.pdf combinatorial prediction markets] at EC 2016.
-- May 2016: Our paper on [pubs/AbernethyLaTe16.pdf price discovery in combinatorial auctions] has been accepted to ACM EC 2016.
-- May 2016: Our paper on [pubs/KroerDuLa16.pdf arbitrage-free combinatorial market making] has been accepted to ACM EC 2016.
-- Apr. 2016: Our paper on [pubs/WahLaPe16.pdf empirical game-theoretic analysis of prediction markets] has been accepted to IJCAI 2016.
-- Jan. 2016: I am the Workshops Chair for [http://www.sigecom.org/ec16/index.html ACM EC] this year. Submission instructions for proposals can be found [http://www.sigecom.org/ec16/workshop.html here].
-
-
-
+#- May 2016: Our paper on [pubs/AbernethyLaTe16.pdf price discovery in combinatorial auctions] has been accepted to ACM EC 2016.
+#- May 2016: Our paper on [pubs/KroerDuLa16.pdf arbitrage-free combinatorial market making] has been accepted to ACM EC 2016.
+#- Apr. 2016: Our paper on [pubs/WahLaPe16.pdf empirical game-theoretic analysis of prediction markets] has been accepted to IJCAI 2016.
+#- Jan. 2016: I am the Workshops Chair for [http://www.sigecom.org/ec16/index.html ACM EC] this year. Submission instructions for proposals can be found [http://www.sigecom.org/ec16/workshop.html here].
 #- Jun. 2015: I attended the [http://www.sigecom.org/ec15/ ACM Conference on Economics and Computation] in Portland.
 #- Feb. 2015: I am on the Senior Program Committee for [http://ijcai-15.org/ IJCAI 2015].
 #- Feb. 2015: I am on the Senior Program Committee for [http://www.sigecom.org/ec15/ ACM EC 2015].
@@ -38,8 +37,7 @@ New York, NY 10011 \n
 == Research Interests
 
 - market design
+- ad auctions and exchanges
 - combinatorial auctions
-- sponsored search
 - prediction markets
-- nonlinear pricing
 - market microstructure
